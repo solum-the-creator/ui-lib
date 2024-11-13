@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Sen:wght@400..800&display=swap");
+
+$primary-font: "Sen", sans-serif;
+
+html,
+body {
+  font-family: $primary-font;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+}
+
+button {
+  font-family: $primary-font;
+}
